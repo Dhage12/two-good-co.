@@ -687,7 +687,7 @@ body{
     letter-spacing: 1px;
     margin-bottom: 6vw;
     font-weight: 500;
-    transition: .3s;
+    
 
     &:hover{
      cursor: pointer;
@@ -771,7 +771,7 @@ body{
 .content h1{
     text-transform: uppercase;
     font-family: abc;
-    font-size: 6vw;
+    font-size: 3.5vw;
 }
 .content i{
     font-weight: 100;
